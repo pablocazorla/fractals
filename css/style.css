@@ -1,0 +1,12 @@
+/* STYLE.CSS */
+body{
+	background-color: #DDD;
+}
+#my-canvas{
+	background-color: #FFF;
+	box-shadow: 0 1px 4px rgba(0,0,0,0.1);
+	position: absolute;
+	top:50%;
+	left:50%;
+	transform: translate3d(-50%,-50%,0);
+}
